@@ -18,6 +18,6 @@ ko:
     description: Site description in korean...
   menu:
     main:
-      - name: 한국어
+      - name: test1231
         url: '#about'
         weight: 1
