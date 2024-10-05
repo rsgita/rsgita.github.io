@@ -18,6 +18,3 @@ main:
   - parent: Resources
     name: Blog
     url: blog/
-    name: 연락
-    url: /#contact
-    weight: 50
