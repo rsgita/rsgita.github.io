@@ -79,12 +79,10 @@ sections:
     content:
       title: Build your future-proof website
       text: 이메일 - 202011612@jbnu.ac.kr
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+      
     design:
       card:
         # Card background color (CSS class)
-        css_class: "bg-primary-700"
+        css_class: "bg-gray-100 dark:bg-gray-900"
         css_style: ""
 ---
