@@ -13,9 +13,9 @@ en:
 ko:
   languageCode: ko-Hans
   contentDir: content/ko
-  title: korean website title...
+  title: 컴퓨터 공학 개인용 사이트
   params:
-    description: Site description in korean...
+    description: 사이트 설명
   menu:
     main:
       - name: 메인
