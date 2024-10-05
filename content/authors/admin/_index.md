@@ -33,8 +33,8 @@ profiles:
   - icon: at-symbol
     url: '202011612@jbnu.ac.kr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  - icon: brands/github
+    url: https://github.com/rsgita
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/linkedin
