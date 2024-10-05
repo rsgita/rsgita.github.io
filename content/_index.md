@@ -61,27 +61,19 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: major
+      text: 전공 과정에서 배우는것들
       items:
-        - name: Optimized SEO
+        - name: 알고리즘
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: 효율 개선을 위한 다양한 알고리즘들에 대해 배움
+        - name: 시스템
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: 기본적인 시스템의 구성과 그 작동 환경에 대해 이해
+        - name: 프로그래밍
+          icon: code
+          description: 다양한 프로그래밍 언어와 환경을 접해보며 실습
+
   - block: cta-image-paragraph
     id: solutions
     content:
