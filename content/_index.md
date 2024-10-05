@@ -80,9 +80,5 @@ sections:
       title: Build your future-proof website
       text: 이메일 - 202011612@jbnu.ac.kr
       
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-gray-100 dark:bg-gray-900"
-        css_style: ""
+    
 ---
