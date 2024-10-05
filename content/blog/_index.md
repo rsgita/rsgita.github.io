@@ -1,3 +1,3 @@
 ---
-title: Blog
+title: 추가 예정
 ---
