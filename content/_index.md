@@ -39,7 +39,7 @@ sections:
           icon: rectangle-group
           description: 기본적인 시스템의 구성과 그 작동 환경에 대해 이해
         - name: 프로그래밍
-          icon: code - bracket
+          icon: code-bracket
           description: 다양한 프로그래밍 언어와 환경을 접해보며 실습
 
   - block: cta-image-paragraph
@@ -48,7 +48,7 @@ sections:
       items:
         - title: 자기소개
           text: 권혁준
-          feature_icon: box
+          feature_icon: check
           features:
             - "전북대학교 컴퓨터인공지능학부"
             - "컴퓨터 공학 전공"
