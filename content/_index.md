@@ -37,21 +37,7 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
+  
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -61,7 +47,7 @@ sections:
   - block: features
     id: features
     content:
-      title: major
+      title: 전공
       text: 전공 과정에서 배우는것들
       items:
         - name: 알고리즘
@@ -71,7 +57,7 @@ sections:
           icon: rectangle-group
           description: 기본적인 시스템의 구성과 그 작동 환경에 대해 이해
         - name: 프로그래밍
-          icon: code
+          icon: code - braket
           description: 다양한 프로그래밍 언어와 환경을 접해보며 실습
 
   - block: cta-image-paragraph
