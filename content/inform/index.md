@@ -9,12 +9,3 @@ items:
     icon: map
     description: 전북특별자치도 전주시 덕진구 백제대로 567
 
-features:
-    map:
-      provider: 'google'
-      api_key:''
-      zoom: 15
-    content:
-      coordiantes:
-        latitude: '35.846844'
-        longtitude: '127.129918'
