@@ -77,8 +77,9 @@ sections:
   
   - block: cta-card
     content:
-      title: Build your future-proof website
+      title: 연락처
       text: 이메일 - 202011612@jbnu.ac.kr
+      text: 주소 - 전북특별자치도 전주시 덕진구 백제대로 567
       
     design:
       card:
