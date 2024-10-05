@@ -56,18 +56,15 @@ sections:
           image: 134690506.png
           
             
-        - title: Large Community
-          text: Join our large community on Discord - ask questions and get live responses
+        - title: 연락처
+          text: 다음 주소로 연락 주세요
           feature_icon: check
           features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+            - "이메일: 202011612@jbnu.ac.kr"
+            - "주소: 전북특별자치도 전주시 덕진구 백제대로 567"
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
-          button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+          image: phone-call.png
+          
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"

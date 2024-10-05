@@ -9,7 +9,7 @@ main:
   - name: 전공
     url: /#features
     weight: 20
-  - name: 연락
+  - name: 소개
     url: /#solutions
     weight: 30
   - name: Resources
