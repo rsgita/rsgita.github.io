@@ -18,3 +18,7 @@ main:
   - parent: Resources
     name: Blog
     url: blog/
+  - name: 정보
+    url: inform/
+    weight: 50
+
