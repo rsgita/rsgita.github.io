@@ -38,12 +38,7 @@ sections:
           filters:
             brightness: 0.5
   
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
+    
   - block: features
     id: features
     content:
