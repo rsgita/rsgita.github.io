@@ -3,19 +3,19 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: 메인
+  - name: home
     url: /#top
     weight: 10
-  - name: 전공
+  - name: major
     url: /#features
     weight: 20
-  - name: 소개
+  - name: introduce
     url: /#solutions
     weight: 30
-  - name: 그외
+  - name: etc
     weight: 40
     hasChildren: true
-  - parent: 그외
-    name: 자료
+  - parent: etc
+    name: inform
     url: blog/
 
