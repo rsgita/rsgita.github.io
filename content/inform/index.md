@@ -1,13 +1,11 @@
 ---
 title: Contact
+date: 2024-10-05
+share: false
 
-features:
-    map:
-      provider: 'google'
-      api_key: ''
-      zoom: 15
-content:
-    coordiantes:
-        latitude: '35.846844'
-        longitude: '127.129918'
+sections:
+  - block: anou
+    content:
+    text: '이메일 : 202011612@jbnu.ac.kr'
+    text: '주소 : 전북특별자치도 전주시 덕진구 백제대로 567'
 ---
