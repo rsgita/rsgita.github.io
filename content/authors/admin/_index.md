@@ -3,11 +3,11 @@
 title: 권혁준
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 권 혁준
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 혁준
+last_name: 권
 
 # Status emoji
 status:
