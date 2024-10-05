@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 권혁준
+title: kwonhyeokjun
 
 # Name pronunciation (optional)
-name_pronunciation: 권 혁준
+name_pronunciation: kwon hyeokjun
 
 # Full name (for SEO)
-first_name: 혁준
-last_name: 권
+first_name: hyeokjun
+last_name: kwon
 
 # Status emoji
 status:
