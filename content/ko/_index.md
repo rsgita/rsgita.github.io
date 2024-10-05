@@ -50,8 +50,9 @@ sections:
           text: 권혁준
           feature_icon: check
           features:
-            - "전북대학교 컴퓨터인공지능학부"
-            - "컴퓨터 공학 전공"
+            - "경력 : 전북대학교 3학년 재학중"
+            - "소속 : 컴퓨터인공지능학부"
+            - "전공 : 컴퓨터 공학"
           # Upload image to `assets/media/` and reference the filename here
           image: 134690506.png
           button:

@@ -50,8 +50,9 @@ sections:
           text: Kwon hyeokjun
           feature_icon: check
           features:
-            - "Chonbuk National University Department of Computer and Artificial Intelligence"
-            - "Computer Engineering Major"
+            - "Experience: 3rd year student at Chonbuk National University"
+            - "Affiliation: Department of Computer and Artificial Intelligence"
+            - "Major: Computer Engineering"
           # Upload image to `assets/media/` and reference the filename here
           image: 134690506.png
           button:
