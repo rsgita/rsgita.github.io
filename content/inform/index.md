@@ -6,8 +6,8 @@ features:
       provider: 'google'
       api_key: ''
       zoom: 15
-      content:
-        coordiantes:
-          latitude: '35.846844'
-          longtitude: '127.129918'
+content:
+    coordiantes:
+        latitude: '35.846844'
+        longitude: '127.129918'
 ---
