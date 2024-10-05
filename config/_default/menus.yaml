@@ -9,7 +9,7 @@ main:
   - name: 전공
     url: /#features
     weight: 20
-  - name: Solutions
+  - name: 정보
     url: /#solutions
     weight: 30
   - name: Resources
@@ -18,7 +18,4 @@ main:
   - parent: Resources
     name: Blog
     url: blog/
-  - name: 정보
-    url: inform/
-    weight: 50
 
