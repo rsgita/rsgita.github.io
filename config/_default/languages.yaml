@@ -12,7 +12,7 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 ko:
   languageCode: ko-Hans
-  contentDir: content
+  contentDir: content/ko
   title: korean website title...
   params:
     description: Site description in korean...
