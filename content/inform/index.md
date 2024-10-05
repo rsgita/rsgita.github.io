@@ -4,7 +4,7 @@ title: Contact
 features:
     map:
       provider: 'google'
-      api_key:''
+      api_key: ''
       zoom: 15
     content:
       coordiantes:
