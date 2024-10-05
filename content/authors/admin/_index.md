@@ -31,7 +31,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: '202011612@jbnu.ac.kr'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
