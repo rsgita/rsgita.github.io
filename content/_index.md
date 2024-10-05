@@ -78,7 +78,7 @@ sections:
   - block: cta-card
     content:
       title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      text: 이메일 - 202011612@jbnu.ac.kr
       button:
         text: Get Started
         url: https://hugoblox.com/templates/
