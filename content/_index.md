@@ -39,7 +39,7 @@ sections:
           icon: rectangle-group
           description: 기본적인 시스템의 구성과 그 작동 환경에 대해 이해
         - name: 프로그래밍
-          icon: code - bracket
+          icon: code-bracket
           description: 다양한 프로그래밍 언어와 환경을 접해보며 실습
 
   - block: cta-image-paragraph
