@@ -54,7 +54,9 @@ sections:
             - "컴퓨터 공학 전공"
           # Upload image to `assets/media/` and reference the filename here
           image: 134690506.png
-          
+          button:
+            text: github link
+            url: https://github.com/rsgita
             
         - title: 연락처
           text: 다음 주소로 연락 주세요
@@ -64,7 +66,10 @@ sections:
             - "주소: 전북특별자치도 전주시 덕진구 백제대로 567"
           # Upload image to `assets/media/` and reference the filename here
           image: phone-call.png
-          
+          button:
+            text: 학교 홈페이지
+            url: https://www.jbnu.ac.kr/kor/
+
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"

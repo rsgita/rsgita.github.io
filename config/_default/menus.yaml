@@ -12,10 +12,10 @@ main:
   - name: 소개
     url: /#solutions
     weight: 30
-  - name: Resources
+  - name: 그외
     weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
+  - parent: 그외
+    name: 자료
     url: blog/
 
