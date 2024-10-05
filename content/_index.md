@@ -10,19 +10,12 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
-      primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+      title: 컴퓨터 공학
+      text: 컴퓨터 공학 개인용 홈페이지 입니다.
       announcement:
-        text: "Announcing the release of version 1."
+        text: "자료"
         link:
-          text: "Read more"
+          text: "바로가기"
           url: "/blog/"
     design:
       spacing:
