@@ -74,16 +74,4 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  
-  - block: cta-card
-    content:
-      title: 연락처
-      text: 이메일 - 202011612@jbnu.ac.kr
-      text: 주소 - 전북특별자치도 전주시 덕진구 백제대로 567
-      
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-gray-500"
-        css_style: ""
 ---
